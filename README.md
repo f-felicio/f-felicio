@@ -22,22 +22,22 @@ After some time working in agencies and startups, I decided to work as a freelan
 
 > Search and schedule activities for your kids
 
-[App Store](http://github.com)
-[Googe Play](http://github.com)
+[App Store](https://apps.apple.com/br/app/kiddle-pass/id1470165981)
+[Googe Play](https://play.google.com/store/apps/details?id=br.com.kiddlepass.newapp)
 
 
 ##### Super Hangry :stew:
 > Food delivery app
 
-[App Store](http://github.com)
-[Googe Play](http://github.com)
+[App Store](https://apps.apple.com/br/app/super-hangry/id1529812961)
+[Googe Play](https://play.google.com/store/apps/details?id=com.superhangry)
 
 
 ##### Audibel :ear:
 > Services and infos about hearing aids
 
-[App Store](http://github.com)
-[Googe Play](http://github.com)
+[App Store](https://apps.apple.com/br/app/audibel/id1488480904)
+[Googe Play](https://play.google.com/store/apps/details?id=br.com.audibel.audibel)
 
 ### Just for fun (and learning)
 
