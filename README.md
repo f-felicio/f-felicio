@@ -44,7 +44,7 @@ After some time working in agencies and startups, I decided to work as a freelan
 ##### Pokédex :space_invader:
 > Gotta catch 'em all!
 
-[Repo](http://github.com)
+[Repo](https://github.com/f-felicio/pokedex)
 
 ##### Hey Listen :notes:
 > Request a playlist and get worldwide suggestions.
