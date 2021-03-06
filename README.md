@@ -1,7 +1,7 @@
 ## Hi there, I'm Felipe 👋
 
 I have 1 million ideas and some of them become apps 🚀.   
-FullStack Developer
+FullStack Developer.   
 React Native 💙
 
 ### :octocat: Currently working on ...
