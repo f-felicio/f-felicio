@@ -1,9 +1,9 @@
 ## Hi there, I'm Felipe 👋
 
-Hello, my name is Felipe, a Master Pokémon and Brazilian developer.
-
-I've been working with development for 8 years.
-After some time working in agencies and startups, I decided to work as a freelancer developer and help other people with their projects.
+I have 1 million ideas
+some of them become apps 🚀
+FullStack Developer
+#reactnative 💙
 
 ### :octocat: Currently working on ...
 * Javascript
