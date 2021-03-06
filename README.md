@@ -1,9 +1,8 @@
 ## Hi there, I'm Felipe 👋
 
-I have 1 million ideas
-some of them become apps 🚀
+I have 1 million ideas and some of them become apps 🚀.   
 FullStack Developer
-#reactnative 💙
+React Native 💙
 
 ### :octocat: Currently working on ...
 * Javascript
@@ -17,6 +16,13 @@ FullStack Developer
 * Testing
 
 ### Apps in the stores
+
+##### Hey Listen :notes:
+> Request a song and get worldwide suggestions.
+
+[App Store](https://apps.apple.com/us/app/hey-listen/id1553656095)
+[Googe Play](https://play.google.com/store/apps/details?id=com.heylisten)
+
 
 ##### Kiddle Pass :rocket:
 
@@ -46,18 +52,10 @@ FullStack Developer
 
 [Repo](https://github.com/f-felicio/pokedex)
 
-##### Hey Listen :notes:
-> Request a playlist and get worldwide suggestions.
-
-[Repo](http://github.com)
-
 ##### Houses :house:
 > Buy/sell a property.
 
 [Repo](http://github.com)
-
-
-
 
 
 <!--
