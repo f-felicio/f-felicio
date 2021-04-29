@@ -55,7 +55,7 @@ React Native 💙
 ##### Houses :house:
 > Buy/sell a property.
 
-[Repo](http://github.com)
+[Repo](https://github.com/f-felicio/houses)
 
 
 <!--
