@@ -1,15 +1,13 @@
 ## Hi there, I'm Felipe 👋
 
-I have 1 million ideas and some of them become apps 🚀<br>
-Mobile Developer👨🏻‍💻
-
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=f-felicio&show_icons=true&theme=dracula)-->
+Mobile Developer👨🏻‍💻<br>
+I have 1 million ideas and some of them become apps 🚀
 
 ## Currently working on ...
 <img align="left" alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
 <img align="left" alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <br>
-<br>
+
 
 ## Currently learning ...
 <img align="left" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
@@ -30,6 +28,24 @@ Mobile Developer👨🏻‍💻
 <br>
 <br> 
 -->
+##### Finances 💰
+
+> My first iOS app built with Swift!
+<img src="https://raw.githubusercontent.com/f-felicio/finances/main/demo.gif" style="max-width: 200px; height: 320px;" alt="App Demo" />
+While it may seem like a basic finance app, this project incorporates several important iOS development concepts and modern technologies that demonstrate real-world app development skills.
+
+### Key Features
+- **MVVM Architecture** - Clean separation of concerns
+- **Core Data** - Local data persistence with complex relationships
+- **Firebase Authentication** - Secure user management
+- **Face ID/Touch ID** - Biometric authentication
+- **Push Notifications** - User engagement
+- **Auto Layout** - Responsive design
+
+[<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/f-felicio/finances)
+<br>
+<br> 
+
 ##### Kiddle Pass :rocket:
 
 > Search and schedule activities for your kids
@@ -45,19 +61,3 @@ Mobile Developer👨🏻‍💻
 > Gotta catch 'em all!
 
 [<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/f-felicio/pokedex)
-
-
-
-<!--
-**f-felicio/f-felicio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-### 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
