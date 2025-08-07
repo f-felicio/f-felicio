@@ -28,6 +28,26 @@ I have 1 million ideas and some of them become apps 🚀
 <br>
 <br> 
 -->
+##### Pokehome 👾
+
+> SwiftUI Pokédex
+<img src="https://raw.githubusercontent.com/f-felicio/pokehome/main/demo.gif" style="max-width: 200px; height: 320px;" alt="App Demo" />
+Alright, it's another Pokédex - but hey, we gotta catch 'em all, right? This project demonstrates modern iOS development practices using SwiftUI and showcases real-world app development skills.
+
+### Key Features
+- **MVVM Architecture** - Clean separation with ViewModels and Models
+- **PokéAPI Integration** - RESTful API consumption with URLSession
+- **JSON Parsing** - Complex nested data structures with Codable
+- **SwiftUI Animations** - Smooth transitions and interactive splash screen
+- **Dynamic Search** - Real-time filtering with Combine framework
+- **AsyncImage Loading** - Efficient image handling and caching
+- **Modern Navigation** - NavigationStack with programmatic routing
+- **Custom Components** - Reusable UI elements and design system
+
+[<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/f-felicio/pokehome)
+<br>
+<br> 
+
 ##### Finances 💰
 
 > My first iOS app built with Swift!
