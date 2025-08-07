@@ -3,31 +3,19 @@
 Mobile Developer👨🏻‍💻<br>
 I have 1 million ideas and some of them become apps 🚀
 
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/felipe-felicio-b580478b/)
+<br><br>
 ## Currently working on ...
 <img align="left" alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
 <img align="left" alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <br>
 
-
 ## Currently learning ...
 <img align="left" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
-<br>
-
-## Connect with me
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/felipe-felicio-b580478b/)
-<br>
-<br>
+<br><br>
 
 ## My Apps
 
-<!--##### Hey Listen :notes:
-> Request a song and get worldwide suggestions.
-
-[<img align="left" alt="App Store" src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" />](https://apps.apple.com/us/app/hey-listen/id1553656095)
-[<img align="left" alt="Play Store" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />](https://play.google.com/store/apps/details?id=com.heylisten)
-<br>
-<br> 
--->
 ##### Pokehome 👾
 
 > SwiftUI Pokédex
